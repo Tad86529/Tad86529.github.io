@@ -1,7 +1,7 @@
 **An Academic Lecturer/ Coordinator/ Researcher**
 
 
-## Dr Tharindu Attanayake 
+### DR. TAD 
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
 **Contact**  
@@ -113,4 +113,5 @@ Lecturer roles at Victoria University Sydney, Canterbury Institute of Management
 ## Referees
 
 Available upon request.
+
 
