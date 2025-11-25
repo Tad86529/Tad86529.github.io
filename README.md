@@ -1,8 +1,8 @@
-## Academic Researcher on AI in Higher Education ##
+- **An Academic Lecturer/ Coordinator/ Researcher**
 
 
-# Dr Tharindu Attanayake ** SAP,
-DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA
+# Dr Tharindu Attanayake
+- *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
 **Contact**  
 - Phone: +61 426 808 586  
@@ -92,7 +92,11 @@ Lecturer roles at Victoria University Sydney, Canterbury Institute of Management
 ## Publications & Research
 
 - Attanayake, T. (2024). How Technological Connectivity Has Helped in Integrated Financial Management. LIGS University Blog.  
-- Attanayake, T., & Goonaratne, G. (Accepted). The Future of Auditing: AI and Emerging Technologies. IUP Journal of Accounting Research and Audit Practices.  
+- Attanayake, T., & Goonaratne, G. (Accepted). The Future of Auditing: AI and Emerging Technologies. IUP Journal of Accounting Research and Audit Practices.
+-
+- **Under Review**
+- Attanayake, T. & Goonarathne, G. (in final review). The Impact of Generative AI on International Business Strategies and Corporate Practices in the SAARC Region. With IUP Journal of Accounting Research and Audit Practices. 
+  
 
 ### Conference Papers and Presentations
 
