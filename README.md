@@ -1,8 +1,8 @@
-- **An Academic Lecturer/ Coordinator/ Researcher**
+**An Academic Lecturer/ Coordinator/ Researcher**
 
 
 # Dr Tharindu Attanayake
-- *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
+*DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
 **Contact**  
 - Phone: +61 426 808 586  
