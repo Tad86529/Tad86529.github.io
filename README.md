@@ -1,4 +1,4 @@
-[# Dr THARINDU ATTANAYAKE #](https://tad86529.github.io/tadvisor.edu.au/)
+# Dr THARINDU ATTANAYAKE #
 
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
