@@ -93,6 +93,7 @@ Lecturer roles at Victoria University Sydney, Canterbury Institute of Management
 
 - Attanayake, T. (2024). How Technological Connectivity Has Helped in Integrated Financial Management. LIGS University Blog.  
 - Attanayake, T., & Goonaratne, G. (Accepted). The Future of Auditing: AI and Emerging Technologies. IUP Journal of Accounting Research and Audit Practices.
+
 **Under Review**
 - Attanayake, T. & Goonarathne, G. (in final review). The Impact of Generative AI on International Business Strategies and Corporate Practices in the SAARC Region. With IUP Journal of Accounting Research and Audit Practices. 
   
