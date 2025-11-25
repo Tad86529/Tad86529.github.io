@@ -5,9 +5,7 @@
 ## Academic Lecturer/ Designer/ Coordinator/ Researcher ##
 
 
-**Contact**  
-- Phone: +61 426 808 586  
-- Email: [tharindu86529@live.com](mailto:tharindu86529@live.com)  
+**Contact**   
 - LinkedIn: [www.linkedin.com/in/dr-tharindu-attanayake-sl1986](https://www.linkedin.com/in/dr-tharindu-attanayake-sl1986)  
 - Location: Sydney, Australia
 
