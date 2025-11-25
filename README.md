@@ -1,7 +1,7 @@
 ## Academic Researcher on AI in Higher Education ##
 
 
-# Dr Tharindu Attanayake 
+# Dr Tharindu Attanayake ** SAP,
 DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA
 
 **Contact**  
