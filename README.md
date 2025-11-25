@@ -1,3 +1,4 @@
+theme: jekyll-theme-modernist
 # Dr Tharindu Attanayake #
 
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
