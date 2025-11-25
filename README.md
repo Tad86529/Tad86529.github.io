@@ -1,4 +1,4 @@
-# Dr THARINDU ATTANAYAKE #
+# Dr Tharindu Attanayake #
 
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
