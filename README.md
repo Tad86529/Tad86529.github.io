@@ -1,8 +1,8 @@
-## Academic Lecturer/ Designer/ Coordinator/ Researcher ##
-
 [# Dr THARINDU ATTANAYAKE #](https://tad86529.github.io/tadvisor.edu.au/)
 
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
+
+## Academic Lecturer/ Designer/ Coordinator/ Researcher ##
 
 
 **Contact**  
