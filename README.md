@@ -2,7 +2,7 @@
 
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
-## Academic Lecturer/ Designer/ Coordinator/ Researcher ##
+#### Academic Lecturer/ Designer/ Coordinator/ Researcher
 
 
 **Contact**   
