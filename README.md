@@ -1,7 +1,7 @@
 **An Academic Lecturer/ Coordinator/ Researcher**
 
 
-### DR. TAD 
+### Dr. TAD 
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
 **Contact**  
