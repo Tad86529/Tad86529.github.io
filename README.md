@@ -1,5 +1,6 @@
-# Dr THARINDU ATTANAYAKE #
 ## Academic Lecturer/ Designer/ Coordinator/ Researcher ##
+
+# Dr THARINDU ATTANAYAKE #
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
 **Contact**  
