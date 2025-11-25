@@ -1,7 +1,4 @@
-# TAD's Personal Website
-Academic Researcher on AI in Higher Education
-# Author: 
-Tharindu Attanayake
+# Academic Researcher on AI in Higher Education
 
 
 # Dr Tharindu Attanayake
