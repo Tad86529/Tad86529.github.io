@@ -1,7 +1,7 @@
 **An Academic Lecturer/ Coordinator/ Researcher**
 
 
-# Dr Tharindu Attanayake
+## Dr Tharindu Attanayake
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
 **Contact**  
