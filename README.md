@@ -1,7 +1,8 @@
-# Academic Researcher on AI in Higher Education
+## Academic Researcher on AI in Higher Education ##
 
 
-# Dr Tharindu Attanayake
+# Dr Tharindu Attanayake 
+DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA
 
 **Contact**  
 - Phone: +61 426 808 586  
