@@ -1,4 +1,4 @@
-## Academic Lecturer/ Designer/ Coordinator/ Researcher
+## Academic Lecturer/ Designer/ Coordinator/ Researcher ##
 *DBA(Fin), MPA, BBus(Acc/Fin), FIPA FFA*
 
 **Contact**  
